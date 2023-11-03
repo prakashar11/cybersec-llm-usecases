@@ -18,3 +18,6 @@
 - A GPT-empowered penetration testing tool [https://github.com/GreyDGL/PentestGPT]
 ## 6. Incident Response
 - Incident response response based on attack group aligned with MITRE ATT&CK [https://github.com/mrwadams/attackgen]
+## 7. Threat Hunting
+- Different LLM based threat hunting example Notebooks [https://github.com/OTRF/GenAI-Security-Adventures]
+- Use MSTICpy package as threat hunting LLM agent [https://blog.securitybreak.io/applying-llms-to-threat-intelligence-f3b8ba4463a4]
