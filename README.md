@@ -20,4 +20,5 @@
 - Incident response response based on attack group aligned with MITRE ATT&CK [https://github.com/mrwadams/attackgen]
 ## 7. Threat Hunting
 - Different LLM based threat hunting example Notebooks [https://github.com/OTRF/GenAI-Security-Adventures]
+- MITRE assistant by utilizing RAG on the ATT&CK data [https://jupyter.securitybreak.io/RAG_ATT%26CK/RAG_ATT%26CK.html]
 - Use MSTICpy package as threat hunting LLM agent [https://blog.securitybreak.io/applying-llms-to-threat-intelligence-f3b8ba4463a4]
